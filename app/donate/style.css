@@ -1,0 +1,385 @@
+.donate {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.donate .frame-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1469px;
+  width: 1512px;
+}
+
+.donate .frame {
+  height: 1469px;
+  position: relative;
+}
+
+.donate .rectangle {
+  background-color: #00aec7;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: -10px;
+  width: 1512px;
+}
+
+.donate .div-wrapper {
+  background-color: #ffffff;
+  height: 170px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.donate .div {
+  height: 160px;
+  left: 186px;
+  position: relative;
+  top: 10px;
+  width: 1140px;
+}
+
+.donate .soleil-matinal-logo {
+  height: 188px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -10px;
+  width: 317px;
+}
+
+.donate .group-wrapper {
+  height: 38px;
+  left: 919px;
+  position: absolute;
+  top: -10px;
+  width: 206px;
+}
+
+.donate .group {
+  height: 38px;
+  width: 208px;
+}
+
+.donate .overlap-group {
+  background-color: #00aec7;
+  border-radius: 0px 0px 5px 5px;
+  height: 38px;
+  position: relative;
+  width: 206px;
+}
+
+.donate .about-soleil-matinal {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.donate .frame-2 {
+  height: 1230px;
+  left: 201px;
+  position: absolute;
+  top: 195px;
+  width: 1110px;
+}
+
+.donate .rectangle-2 {
+  background-color: #dddddd;
+  height: 1px;
+  left: 30px;
+  position: absolute;
+  top: 259px;
+  width: 1050px;
+}
+
+.donate .frame-3 {
+  height: 970px;
+  left: 30px;
+  position: absolute;
+  top: 260px;
+  width: 1050px;
+}
+
+.donate .rectangle-3 {
+  background-color: #dddddd;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 1050px;
+}
+
+.donate .overlap {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 1050px;
+}
+
+.donate .rectangle-4 {
+  background-color: #dddddd;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 150px;
+  width: 1050px;
+}
+
+.donate .group-2 {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.donate .group-3 {
+  height: 79px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 958px;
+}
+
+.donate .overlap-group-wrapper {
+  height: 79px;
+  left: 509px;
+  position: absolute;
+  top: 0;
+  width: 449px;
+}
+
+.donate .overlap-group-2 {
+  background-color: #0baec7;
+  height: 79px;
+  position: relative;
+  width: 447px;
+}
+
+.donate .text-wrapper {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: justify;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.donate .text-wrapper-2 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.donate .group-4 {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 243px;
+  width: 1050px;
+}
+
+.donate .group-5 {
+  height: 79px;
+  left: 73px;
+  position: absolute;
+  top: 0;
+  width: 936px;
+}
+
+.donate .group-6 {
+  height: 79px;
+  left: 487px;
+  position: absolute;
+  top: 0;
+  width: 449px;
+}
+
+.donate .group-7 {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 422px;
+  width: 1050px;
+}
+
+.donate .group-8 {
+  height: 79px;
+  left: 232px;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.donate .group-9 {
+  height: 79px;
+  left: 328px;
+  position: absolute;
+  top: 0;
+  width: 449px;
+}
+
+.donate .frame-4 {
+  height: 219px;
+  left: 30px;
+  position: absolute;
+  top: 40px;
+  width: 1050px;
+}
+
+.donate .overlap-wrapper {
+  height: 308px;
+  left: 47px;
+  position: absolute;
+  top: 882px;
+  width: 1050px;
+}
+
+.donate .overlap-2 {
+  height: 201px;
+  position: relative;
+}
+
+.donate .frame-5 {
+  height: 137px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.donate .overlap-group-3 {
+  height: 45px;
+  left: 335px;
+  position: absolute;
+  top: -1px;
+  width: 380px;
+}
+
+.donate .p {
+  color: #1f1f1f;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 380px;
+}
+
+.donate .text-wrapper-3 {
+  color: #1f1f1f;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.donate .rectangle-5 {
+  background-color: #dddddd;
+  height: 1px;
+  left: 199px;
+  position: absolute;
+  top: 71px;
+  width: 653px;
+}
+
+.donate .soleil-matinal {
+  color: #1f1f1f;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 449px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+}
+
+.donate .frame-6 {
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.donate .h-1 {
+  color: #253746;
+  font-family: "Montserrat", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38.4px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 574px;
+}
+
+.donate .text-wrapper-4 {
+  color: #1f1f1f;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+  width: 1011px;
+}
+
+.donate .a-gift-to-where-most {
+  color: #1f1f1f;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 60px;
+  width: 1035px;
+}
