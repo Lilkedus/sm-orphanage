@@ -100,12 +100,14 @@ export default function Home() {
             src="https://generation-sessions.s3.amazonaws.com/ef18209dde0a9a2815e9db2a53ece53c/img/image-8@2x.png"
           />
           <div className="rectangle-5" />
+          <Link href="/donate">
           <div className="div-wrapper">
             <div className="overlap-group-3">
               <div className="rectangle-6" />
               <div className="text-wrapper-15">Donate</div>
             </div>
           </div>
+          </Link>
           <div className="text-wrapper-16">Change Lives Today.</div>
           <div className="text-wrapper-17">Support Us.</div>
           <p className="text-wrapper-18">
