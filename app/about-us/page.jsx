@@ -76,7 +76,7 @@ export default function AboutUs() {
                   src="https://generation-sessions.s3.amazonaws.com/00da84fd1dbdbc75d0075c8ba17e7030/img/image-7@2x.png"
                 />
                 <p className="text-wrapper-5">
-                  Not want for food, clothing, medical care, or shelter
+                  No want for food, clothing, medical care, or shelter
                 </p>
               </div>
             </div>
